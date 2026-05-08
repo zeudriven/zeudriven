@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Varun (zeusdriven)
+# 👋 Hi, I'm Varun (zeudriven)
 
 ## 🎓 Computer Science Student
 Currently in my 3rd year at York University, I'm passionate about coding, problem-solving, and making a positive impact on my community.
