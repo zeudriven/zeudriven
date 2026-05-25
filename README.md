@@ -1,68 +1,112 @@
-# 👋 Hi, I'm Varun (zeudriven)
+<div align="center">
 
-## 🎓 Computer Science Student
-Currently in my 3rd year at York University, I'm passionate about coding, problem-solving, and making a positive impact on my community.
+# Hello there, I'm Varun 👋
 
----
+🏛️ Computer Science Student @ York University &nbsp;•&nbsp; 🚀 Hackathon Builder &nbsp;•&nbsp; 📍 Toronto, Canada
 
-## 🚀 About Me
+Passionate about building practical tech, AI tools, full-stack apps, and projects that solve real problems.
 
-- 💻 I love tackling coding challenges — I've solved countless LeetCode and NeetCode problems to sharpen my skills.
-- 🎬 Built a full-featured Cinema Management System (DM me for a demo!).
-- 🏋️‍♂️ Currently building **NutriFit**, an all-in-one fitness & nutrition app (stay tuned!).
-- 🗣️ Creating motivational content to engage and inspire minority communities.
-- 🎾 Play badminton and tennis at a professional level — always up for a match!
+<br>
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding gif"/>
 
-## 🛠️ Skills
+<br><br>
 
-### 💻 Languages
-- Python
-- Java
-- C++
-- JavaScript
-- C
-- Java Swing
-- Vellum
+<a href="https://www.linkedin.com/in/student-cc-yorku-varun-patel">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/zeusdriven">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:varun05@my.yorku.ca">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-### 🧠 Problem Solving
-- LeetCode
-- NeetCode
-
-### 🌐 Web & App Development
-- React
-- Node.js
-- Next.js
-- MySQL
-- Vellum
-
-### ⚙️ Tools & Workflow
-- Agile
-- Git
-- GitHub
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## About Me
 
-### 🎬 Cinema Management System
-A complete system for managing cinema operations.  
-_(File coming soon!)_
+I'm a third-year Computer Science student at York University focused on building useful, real-world software.  
+I enjoy working on full-stack applications, AI workflow tools, data-driven projects, and hackathon products.
 
----
-
-### 🏋️‍♂️ NutriFit (In Progress — 80%)
-Your next go-to app for fitness and nutrition tracking.
-
----
-
-### 🤖 ModelCompare
-YOLO & Vision Model Comparison Platform  
-Your ultimate tool to evaluate, benchmark, and visualize YOLO models and other computer vision architectures — empowering smarter choices for AI projects.
+- 🔭 Currently building: AI tools, dashboards, and full-stack apps  
+- 🌱 Learning: AI/ML, system design, backend development, and scalable project architecture  
+- 🧠 Interested in: Software Engineering, AI/ML, Data, Product, and Public-Sector Tech  
+- 🏆 Hackathon experience: Scotiabank, COIE Climathon, Enactus projects  
+- 💬 Ask me about: Java, Python, SQL, FastAPI, hackathons, and project building  
 
 ---
 
-## 🌐 Connect with Me
+## Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/student-cc-yorku-varun-patel/
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Scotia FutureFlex
+A micro-investment and trading engagement platform built during a Scotiabank hackathon.
+
+- Won **Best UI/UX Design**
+- Built with **Python, FastAPI, SQLite, HTML, CSS, JavaScript**
+- Focused on goal-based investing, user engagement, and mobile-first design
+
+### FoodLoop
+An AI logistics and food resource optimization platform.
+
+- Placed **3rd among 100+ participants**
+- Built routing, inventory visibility, and resource allocation features
+- Used **Java, Python, and MySQL**
+
+### AI Workflow Automation Assistant
+A full-stack AI assistant that turns unstructured requests into organized plans.
+
+- Converts messy prompts into task plans, summaries, and reusable workflows
+- Built with **Python, FastAPI, SQLAlchemy, SQLite, HTML, CSS, JavaScript**
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zeusdriven&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeusdriven&layout=compact&theme=tokyonight" height="160"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/student-cc-yorku-varun-patel">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:varun05@my.yorku.ca">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
