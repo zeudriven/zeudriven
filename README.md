@@ -15,13 +15,13 @@ Passionate about building practical tech, AI tools, full-stack apps, and project
 <a href="https://www.linkedin.com/in/student-cc-yorku-varun-patel">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/zeusdriven">
+<a href="https://github.com/zeudriven">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:varun05@my.yorku.ca">
+<a href="mailto:varunmkpatel12@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Varun005/">
   <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
